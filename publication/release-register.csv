@@ -1,0 +1,4 @@
+received_on,transfer_id,collection_id,collection_name,vault_id,vault_name,handling,box_count,clearance
+2026-09-01,T-02,ARC-2,Border Surveys,V-B,Map Cabinet,REFERENCE,4,HOLD
+2026-09-02,T-01,ARC-1,Oral Histories,V-A,North Stack,ARCHIVE,12,RELEASE
+2026-09-04,T-07,ARC-2,Border Surveys,V-B,Map Cabinet,ARCHIVE,7,HOLD

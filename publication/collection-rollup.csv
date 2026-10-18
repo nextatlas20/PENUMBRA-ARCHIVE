@@ -1,0 +1,4 @@
+collection_id,collection_name,access_class,valid_transfers,released_transfers,held_transfers,valid_boxes
+ARC-1,Oral Histories,OPEN,1,1,0,12
+ARC-2,Border Surveys,RESTRICTED,2,0,2,11
+ARC-3,Glass Negatives,OPEN,0,0,0,0
